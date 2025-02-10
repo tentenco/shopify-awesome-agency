@@ -459,3 +459,10 @@ Shopify开发成本因合作模式、地区及专案复杂度而异。以下从*
 **地域成本差异**：北美代理商固定价专案起价$15k，东欧同规格专案可节省40%成本。  
 
 *数据来源：Shopify  2024年开发者调查报告、Aureate Labs定价模型研究*
+
+
+- [Shopify - Shopify Plus and Shopify B2B 台灣 | DTC Insider](https://tenten.co/d2c/tag/shopify/)
+- [Shopify開發成本比較：自由工作者、代理商與內部團隊的價格及優缺點分析](https://tenten.co/d2c/shopify-cost-compare/)
+- [2025 年想找 Shopify 專家？先搞懂時薪和固定費用！](https://tenten.co/d2c/2025-shopify-dev-pricing/)
+- [Shopify 代理商推薦：精選優質夥伴，助您電商無憂](https://tenten.co/d2c/shopify-agency-list/)
+- [亞洲最具代表性的 Shopify 開發公司](https://tenten.co/d2c/top-agency-asia/)
