@@ -334,10 +334,6 @@ Shopify最大的优势在于其“Dropshipping”模式：你只需要花两个�
 - [Shopify Developer Changelog](https://www.raycast.com/sandypockets/shopify-developer-changelog) - 列出 Shopify 变更日志的 Raycast 扩展。
 
 
-
-
-
-
 #### More Shopify Resources
 
 - [打造数据驱动且具有扩展性的 Shopify D2C 商城体验｜Tenten.co](https://tenten.co/zh/solution/shopify)
@@ -361,4 +357,31 @@ Shopify最大的优势在于其“Dropshipping”模式：你只需要花两个�
 - [2025 年 Shopify 商店必装：转换率提升神器的全攻略](https://tenten.co/d2c/2025-top-shopify-app-to-increase-conversion/)
 - [Shopify 学习资源：掌握电商经营技巧](https://tenten.co/d2c/shopify-learning-resources/)
 - [Shopify 资源总汇：助您称霸电商市场](https://tenten.co/d2c/shopify-resources/)
+
+
+#### Tenten 协助您打造高成长/ 全球销售的 Shopify Plus 电商
+
+您是否正在寻找一个能够将您的品牌提升到新高度的电子商务平台？Tenten的Shopify Plus开发和设计服务正是您所需要的。我们的专家团队将为您量身定制高端的Shopify Plus解决方案，帮助您实现品牌愿景，提升销售业绩。
+
+![Shopify CRO service by Tenten](https://s4.tenten.co/shopify-cro-1ukxRlI0aVRWomHnRO3jSRrhiWSDdV6PV4JlgFnqZX8vgEryvFJrGGqIWEHhbPszUax96v5mmsGbE5VOXQhR3ZQUUJiujweLcp0v.jpg)
+
+##### 我们提供以下的 Shopify 服务：
+- **客制化的设计**：打造独一无二的品牌形象，吸引更多顾客。
+- **强大的开发支持**：确保您的商店运行顺畅，满足所有业务需求。
+- **专业的谘询**：我们的团队将与您紧密合作，确保您的业务目标得以实现。
+
+#### 立即行动：
+- 想深入了解Shopify Plus的优势？请点击[我们的Shopify Blog](https://tenten.co/d2c/)，探索更多资讯与成功案例。
+- 准备好开始您的Shopify Plus之旅了吗？[联系我们](https://tenten.co/zh/contact)，让我们一起打造您的梦想商店！
+
+#### Learn more
+- [Tenten Shopify Plus 服务 (繁体中文)](https://go.tenten.co/shopify-service) 
+- [Tenten Shopify Plus 服务 (简体中文)](https://s4.tenten.co/CN-Shopify-Plus-Service-by-Tenten-2025-Feb.pdf) 
+- [Tenten Shopify Plus Service (English)](https://s4.tenten.co/EN-Shopify-Plus-Service-by-Tenten-2025-Feb.pdf) 
+- [Tenten Shopifyプラス（日本语）](https://s4.tenten.co/JP-Shopify-Plus-Service-by-Tenten-2025-Feb.pdf) 
+- [Tenten Shopify 플러스 서비스 (한국어)](https://s4.tenten.co/KR-Shopify-Plus-Service-by-Tenten-2025-Feb.pdf) 
+
+
+#### 把握机会，脱颖而出
+不要错过这个机会，与Tenten合作，让您的品牌在竞争激烈的电子商务市场中脱颖而出。现在就行动，开启您的成功之路！
 
